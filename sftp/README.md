@@ -68,19 +68,5 @@ Before using the scripts, ensure the following:
   - Paths for files to upload/download.
 - Add logging paths for production use.
 
----
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## 🤝 Contributing
-Feel free to open an issue or submit a pull request if you want to contribute enhancements or fixes to these scripts.
-
----
-
-## 📞 Contact
-For questions or support, please reach out via my [GitHub Profile](https://github.com/Manishlimbu1221).
 
 
