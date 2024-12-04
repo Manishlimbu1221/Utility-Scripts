@@ -4,6 +4,7 @@ Welcome to the **Utility Scripts Repository**! This repository contains a collec
 
 ## 📁 Repository Structure
 - **`sftp/`**: Scripts for uploading and downloading files via SFTP.
+- **`file_archiver/`**: Scripts for archiving files based on directory and date provided.
 
 ## 🔧 Prerequisites
 
