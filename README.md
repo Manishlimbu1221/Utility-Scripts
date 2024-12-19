@@ -3,8 +3,9 @@
 Welcome to the **Utility Scripts Repository**! This repository contains a collection of useful scripts for various tasks. Each script is organized into categories based on its functionality.
 
 ## 📁 Repository Structure
-- **`sftp/`**: Scripts for uploading and downloading files via SFTP.
-- **`file_archiver/`**: Scripts for archiving files based on directory and date provided.
+- **`sftp/`**: Powershell Scripts for uploading and downloading files via SFTP.
+- **`file_archiver/`**: Powershell Script for archiving files based on directory and date provided.
+- **`file_remover/`**: Powershell Script for removing files older than certian period and empty directories.
 
 ## 🔧 Prerequisites
 
